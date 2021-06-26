@@ -16,7 +16,7 @@ System Design related discussions on various topics
   <tr>
     <td>Type Ahead</td>
     <td>Abhishek</td>
-    <td>T.B.D</td>
+    <td>27.06.2021</td>
   </tr>
    </table>
  </body>

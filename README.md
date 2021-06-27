@@ -18,7 +18,7 @@ System Design related discussions on various topics
     <td>Type Ahead</td>
     <td>Abhishek</td>
     <td>27.06.2021</td>
-    <td><a href="https://docs.google.com/presentation/d/1TIzt0yAc1iWEE8CcNkTyuUt-Y40kdf4WdGfLT6nbLDE/edit?ts=60d82096#slide=id.gdde67998d7_0_6">URL</a>
+    <td><a href="https://docs.google.com/presentation/d/1TIzt0yAc1iWEE8CcNkTyuUt-Y40kdf4WdGfLT6nbLDE/edit?ts=60d82096#slide=id.gdde67998d7_0_6"  target="_blank">URL</a>
   </tr>
    </table>
  </body>

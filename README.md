@@ -9,7 +9,7 @@ System Design related discussions on various topics
 
 <table style="font-family: "Century Gothic", CenturyGothic, Geneva, AppleGothic, sans-serif;width:100%"> 
   <tr>
-    <th width="55%">Problem</th>
+    <th width="50%">Problem</th>
     <th width="30%">Author</th>
     <th width="15%">Date</th>
    <th width="5%">URL</th>

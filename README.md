@@ -32,10 +32,16 @@ System Design related discussions on various topics
      <td>18.07.2021</td>
      <td><a href=""  target="_blank">URL</a>
    </tr>
+  <tr>
+     <td>Netflix</td>
+     <td>Amit Verma</td>
+     <td>25.07.2021</td>
+     <td><a href=""  target="_blank">URL</a>
+   </tr>  
    <tr>
      <td>Signal R</td>
      <td>Amit Verma</td>
-     <td>25.07.2021</td>
+     <td>01.08.2021</td>
      <td><a href=""  target="_blank">URL</a>
    </tr>  
    </table>

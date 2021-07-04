@@ -36,7 +36,7 @@ System Design related discussions on various topics
      <td>Netflix</td>
      <td>Amit Verma</td>
      <td>25.07.2021</td>
-     <td><a href=""  target="_blank">URL</a>
+     <td><a href="https://docs.google.com/presentation/d/1w6O66ymtA8_Y4-V4GzqG2dFvZ68e49Q8xIyWzGhdLVA/edit#slide=id.ge24de40aea_0_45"  target="_blank">URL</a>
    </tr>  
    <tr>
      <td>Signal R</td>

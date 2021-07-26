@@ -36,7 +36,7 @@ System Design related discussions on various topics
      <td>Netflix</td>
      <td>Amit Verma</td>
      <td>25.07.2021</td>
-     <td><a href=""  target="_blank">URL</a>
+     <td><a href="https://docs.google.com/presentation/d/1qCh16fpK55amKB3iFrhcWY7OX7FXScQ2kCo-PEKp0ew/edit#slide=id.p1"  target="_blank">URL</a>
    </tr> 
    <tr>
      <td>Web Crawler</td>

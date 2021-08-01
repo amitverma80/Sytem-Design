@@ -47,7 +47,7 @@ System Design related discussions on various topics
    <tr>
      <td>Multi Threading</td>
      <td>Pritam</td>
-     <td>008.08.2021</td>
+     <td>08.08.2021</td>
      <td><a href=""  target="_blank">URL</a>
    </tr> 
    <tr>

@@ -69,6 +69,12 @@ System Design related discussions on various topics
      <td><a href=""  target="_blank">URL</a>
    </tr> 
    <tr>
+     <td>Instagram</td>
+     <td>Rajesh</td>
+     <td>29.08.2021</td>
+     <td><a href=""  target="_blank">URL</a>
+   </tr> 
+   <tr>
      <td>Twitter</td>
      <td>Pritam</td>
      <td>15.08.2021</td>
